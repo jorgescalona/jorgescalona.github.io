@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-25T17:33:03-04:00</updated><id>http://localhost:4000/</id><title type="html">jorgescalona</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Jorgescalona Resume</title><link href="http://localhost:4000/cv/" rel="alternate" type="text/html" title="Jorgescalona Resume" /><published>2018-06-24T00:00:00-04:00</published><updated>2018-06-24T00:00:00-04:00</updated><id>http://localhost:4000/cv</id><content type="html" xml:base="http://localhost:4000/cv/">&lt;p&gt;&lt;img src=&quot;../assets/img/yo_lkn.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;jorge-escalona&quot;&gt;Jorge Escalona&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;MyAddress         &lt;br /&gt;
+Urb. El Trigal    &lt;br /&gt;
+Cabudare, Edo Lara&lt;br /&gt;
+Venezuela&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;education&quot;&gt;Education&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;2005-2010&lt;/dt&gt;
+  &lt;dd&gt;&lt;strong&gt;telecommunications engineering&lt;/strong&gt;; &lt;a href=&quot;http://www.uft.edu.ve/&quot; title=&quot;UFT&quot;&gt;Fermín Toro University&lt;/a&gt; (Venezuela)
+
+    &lt;p&gt;Thesis title: Programmable logic controller with data transmission over hardware and free software (pinguino technology) and I2C communications protocol&lt;/p&gt;
+  &lt;/dd&gt;
+  &lt;dt&gt;2007-2010&lt;/dt&gt;
+  &lt;dd&gt;&lt;strong&gt;Specialization in data networks&lt;/strong&gt;; &lt;a href=&quot;http://postgrado.ucla.edu.ve/ciencias/redes.htm&quot; title=&quot;Universidad Centroccidental Lisandro Alvarado&quot;&gt;UCLA&lt;/a&gt;
+(Venezuela)&lt;/dd&gt;
+  &lt;dt&gt;2002-2005&lt;/dt&gt;
+  &lt;dd&gt;&lt;strong&gt;TSU senior university technician in electronics&lt;/strong&gt;; &lt;a href=&quot;http://www.utsbarquisimeto.edu.ve/paginas/carreras/electronica.html&quot; title=&quot;TSU electronica&quot;&gt;University Institute of Technologies Antonio José De Sucre&lt;/a&gt; (Venezuela)&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h2 id=&quot;experience&quot;&gt;Experience&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Your Most Recent Work Experience:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Currently I work as a technology consultant for third parties in the freelance mode. I advance on software development specifically in languages such as Python, Ruby, which has allowed me to experiment with ERP tools such as Odoo, SIG QGIS, git, docker, among others. I am very interested in the training area thus bequeathing the experience gained throughout my professional experience. Lead teams and support them from the QA and project management by monitoring and controlling them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;08/08/2016 - 16/07/2017 Python dev for &lt;a href=&quot;https://www.vauxoo.com/&quot;&gt;Vauxoo&lt;/a&gt; Gold Partner Odoo&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Development of software solutions for the client portfolio of Vauxoo, Issues attention, creation of tests for the modules.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;06/09/2013 - 04/09/2015 &lt;a href=&quot;http://www.inces.gob.ve&quot; title=&quot;INCES&quot;&gt;INCES&lt;/a&gt; Chief TI Officer&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Coordination of the operational unit, support to the regional management INCES, support to the strategic lines of the National Management of Information Technology and to the institutional transformation policies, with 12 people in charge, design of the strategies and tools for the follow-up and control of the management. Implementation of computer systems in django and openerp.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;08/09/2010 - 02/09/2013 Electronic Laboratory Coordinator in &lt;a href=&quot;http://www.uft.edu.ve/&quot; title=&quot;UFT&quot;&gt;Fermín Toro University&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Internal consultancy in the area of electronic and digital development of curricula for students in general.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;01/05/2007 - 01/12/2008 Telecommunications Coordinator in &lt;a href=&quot;http://diversidadbiologica.minamb.gob.ve/actores/ficha/395/&quot;&gt;CVA&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;performance of internal communication operations, links between routers and satellites, topology design of fiber and ethernet networks.&lt;/p&gt;
+
+&lt;h2 id=&quot;technical-experience&quot;&gt;Technical Experience&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;IT tools and free technologies&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Python&lt;/li&gt;
+      &lt;li&gt;PostgreSQL&lt;/li&gt;
+      &lt;li&gt;XML&lt;/li&gt;
+      &lt;li&gt;Docker&lt;/li&gt;
+      &lt;li&gt;Git&lt;/li&gt;
+      &lt;li&gt;Vim&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Telecommunications and data networks&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;OSI model&lt;/li&gt;
+      &lt;li&gt;CCNA (instructor)&lt;/li&gt;
+      &lt;li&gt;Ethernet&lt;/li&gt;
+      &lt;li&gt;Switching &amp;amp; Routing&lt;/li&gt;
+      &lt;li&gt;Vlan&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Open Source
+	Since the practice and formed a team to hold events such as the &lt;a href=&quot;https://es.wikipedia.org/wiki/Congreso_Nacional_de_Software_Libre_de_Venezuela&quot;&gt;CNSL National Congress of Free Software&lt;/a&gt; and Free Software Day, I belong to the GNU / Venezuela movement and the Hardware Libre de Venezuela collective.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
