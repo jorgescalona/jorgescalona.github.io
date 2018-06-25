@@ -29,4 +29,4 @@ GPL-v3.0
 
 ## Adapted
 
-by @jorgescalona by personal site
+by @jorgescalona for personal site
