@@ -52,6 +52,12 @@ layout: default
         {% else %}
           <li class="twitter"><a href="https://twitter.com/artemsheludko_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> @artemsheludko_</a></li>
         {% endif %}
+        
+        {% if site.gitlab %}
+          <li class="gitlab"><a href="https://gitlab.com/{{site.gitlab}}" target="_blank"><i class="fa fa-gitlab"></i> gitlab.com/{{site.gitlab}}</a></li>
+        {% else %}
+          <li class="gitlab"><a href="https://gitlab.com/jorgemustaine" target="_blank"><i class="fa fa-gitlab" aria-hidden="true"></i> gitlab.com/jorgemustaine<a></li>
+        {% endif %}
 
       </ul>
     </div>
