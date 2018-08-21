@@ -1,5 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-25T18:50:50-04:00</updated><id>http://localhost:4000/</id><title type="html">jorgescalona</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Jorgescalona Resume</title><link href="http://localhost:4000/cv/" rel="alternate" type="text/html" title="Jorgescalona Resume" /><published>2018-06-24T00:00:00-04:00</published><updated>2018-06-24T00:00:00-04:00</updated><id>http://localhost:4000/cv</id><content type="html" xml:base="http://localhost:4000/cv/">&lt;p&gt;&lt;img src=&quot;../assets/img/yo_lkn.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-21T17:03:58-04:00</updated><id>http://localhost:4000/</id><title type="html">jorgescalona</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Jorgescalona &amp;amp; Jose Freitez Thesis</title><link href="http://localhost:4000/tesis/" rel="alternate" type="text/html" title="Jorgescalona &amp; Jose Freitez Thesis" /><published>2018-08-21T00:00:00-04:00</published><updated>2018-08-21T00:00:00-04:00</updated><id>http://localhost:4000/tesis</id><content type="html" xml:base="http://localhost:4000/tesis/">&lt;p&gt;&lt;img src=&quot;../assets/static_files/cap_one.pdf&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;jorge-escalona&quot;&gt;Jorge Escalona&lt;/h1&gt;
+
+&lt;p&gt;[1] Archivo a Descargar: jorgescalona.github.io/assets/static_files/cap_one.pdf&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;MyAddress         &lt;br /&gt;
+Urb. El Trigal    &lt;br /&gt;
+Cabudare, Edo Lara&lt;br /&gt;
+Venezuela&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Education&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Jorgescalona Resume</title><link href="http://localhost:4000/cv/" rel="alternate" type="text/html" title="Jorgescalona Resume" /><published>2018-06-24T00:00:00-04:00</published><updated>2018-06-24T00:00:00-04:00</updated><id>http://localhost:4000/cv</id><content type="html" xml:base="http://localhost:4000/cv/">&lt;p&gt;&lt;img src=&quot;../assets/img/yo_lkn.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;jorge-escalona&quot;&gt;Jorge Escalona&lt;/h1&gt;
 
