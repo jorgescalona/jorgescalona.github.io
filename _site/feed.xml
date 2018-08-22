@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-21T18:23:28-04:00</updated><id>http://localhost:4000/</id><title type="html">jorgescalona</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Jorgescalona &amp;amp; Jose Freitez Thesis</title><link href="http://localhost:4000/tesis/" rel="alternate" type="text/html" title="Jorgescalona &amp; Jose Freitez Thesis" /><published>2018-08-21T00:00:00-04:00</published><updated>2018-08-21T00:00:00-04:00</updated><id>http://localhost:4000/tesis</id><content type="html" xml:base="http://localhost:4000/tesis/">&lt;h1 id=&quot;thesis&quot;&gt;Thesis:&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-22T07:07:20-04:00</updated><id>http://localhost:4000/</id><title type="html">jorgescalona</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Jorgescalona &amp;amp; Jose Freitez Thesis</title><link href="http://localhost:4000/tesis/" rel="alternate" type="text/html" title="Jorgescalona &amp; Jose Freitez Thesis" /><published>2018-08-21T00:00:00-04:00</published><updated>2018-08-21T00:00:00-04:00</updated><id>http://localhost:4000/tesis</id><content type="html" xml:base="http://localhost:4000/tesis/">&lt;p&gt;&lt;img src=&quot;../assets/img/pinguino.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;thesis&quot;&gt;Thesis:&lt;/h1&gt;
 
 &lt;p&gt;design Programmable logic controller with data transmission on Hardware and Free Software &lt;a href=&quot;http://www.pinguino.cc/&quot;&gt;pinguino technology&lt;/a&gt; and I2C communications protocol. Achieving in this way lower costs and supply the National Industry and local talent with new tools at the technological level.&lt;/p&gt;
 
@@ -7,7 +9,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;Jorge Escalona (Telecommunication engineer) mail: escajorge@gmail.com&lt;/li&gt;
-  &lt;li&gt;Jose Freites (Electrical enginerr) mail: Jmfreitezmartos@Gmail.com&lt;/li&gt;
+  &lt;li&gt;Jose Freitez (Electrical enginerr) mail: Jmfreitezmartos@Gmail.com&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;ol&gt;
@@ -22,7 +24,7 @@
     &lt;embed src=&quot;https://jorgescalona.github.io/assets/static_files/cap_four.pdf&quot; /&gt;
         &lt;p&gt;Please download the PDF of capter four to view it: &lt;a href=&quot;https://jorgescalona.github.io/assets/static_files/cap_four.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
     &amp;lt;/embed&amp;gt;
-&lt;/object&gt;</content><author><name></name></author><summary type="html">Thesis:</summary></entry><entry><title type="html">Jorgescalona Resume</title><link href="http://localhost:4000/cv/" rel="alternate" type="text/html" title="Jorgescalona Resume" /><published>2018-06-24T00:00:00-04:00</published><updated>2018-06-24T00:00:00-04:00</updated><id>http://localhost:4000/cv</id><content type="html" xml:base="http://localhost:4000/cv/">&lt;p&gt;&lt;img src=&quot;../assets/img/yo_lkn.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/object&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Jorgescalona Resume</title><link href="http://localhost:4000/cv/" rel="alternate" type="text/html" title="Jorgescalona Resume" /><published>2018-06-24T00:00:00-04:00</published><updated>2018-06-24T00:00:00-04:00</updated><id>http://localhost:4000/cv</id><content type="html" xml:base="http://localhost:4000/cv/">&lt;p&gt;&lt;img src=&quot;../assets/img/yo_lkn.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;jorge-escalona&quot;&gt;Jorge Escalona&lt;/h1&gt;
 
