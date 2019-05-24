@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-25T10:50:52-03:00</updated><id>http://localhost:4000/</id><title type="html">jorgescalona</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-24T14:54:53-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">jorgescalona</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Jorgescalona &amp;amp; Jose Freitez Thesis</title><link href="http://localhost:4000/tesis/" rel="alternate" type="text/html" title="Jorgescalona &amp; Jose Freitez Thesis" /><published>2018-08-21T00:00:00-03:00</published><updated>2018-08-21T00:00:00-03:00</updated><id>http://localhost:4000/tesis</id><content type="html" xml:base="http://localhost:4000/tesis/">&lt;p&gt;&lt;img src=&quot;../assets/img/pinguino.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;thesis&quot;&gt;Thesis:&lt;/h1&gt;
@@ -29,11 +29,10 @@
 &lt;h1 id=&quot;jorge-escalona&quot;&gt;Jorge Escalona&lt;/h1&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;MyAddress         &lt;br /&gt;
-Bo San Cristobal    &lt;br /&gt;
-Av San Juan #3231
-Piso 1 #3 CABA        &lt;br /&gt;
-Argentina&lt;/p&gt;
+  &lt;p&gt;MyAddress
+Av Uruguay 1772
+Piso 1 #5
+Montevideo&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;education&quot;&gt;Education&lt;/h2&gt;
@@ -56,6 +55,8 @@ Argentina&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Your Most Recent Work Experience:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Currently I work as a technology consultant for third parties in the freelance mode. I advance on software development specifically in languages such as Python, Ruby, which has allowed me to experiment with ERP tools such as Odoo, SIG QGIS, git, docker, among others. I am very interested in the training area thus bequeathing the experience gained throughout my professional experience. Lead teams and support them from the QA and project management by monitoring and controlling them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;04/02/2019&lt;/strong&gt; Currently I work as a senior consultant in CI / CD and Q &amp;amp; A technologies in &lt;a href=&quot;https://quanam.com&quot;&gt;Quanam&lt;/a&gt; as well as providing direct consultancy in python / odoo, docker, git and similes oriented to different environments and stages of software development.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;08/08/2016 - 16/07/2017 Python dev for &lt;a href=&quot;https://www.vauxoo.com/&quot;&gt;Vauxoo&lt;/a&gt; Gold Partner Odoo&lt;/strong&gt;&lt;/p&gt;
 
