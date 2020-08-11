@@ -12,7 +12,7 @@ blog_theme: dark # Or use dark
 name: Jorge Escalona
 tagline: telecommunications engineer, python dev, odoo, free technologies, gnu / linux admin
 about-description: Ability to organize teams and collective work, experience in management and coordination of units operational, convinced of the knowledge tools open knowledgeable and constructor of the legal framework with respect to free technologies, free knowledge and transformation of learning models and education. # Add Discription
-pic: yo_cv_2020.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: yo_cv_2020_200x200.png  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: jorgescalona@riseup.net # Add your Email address
