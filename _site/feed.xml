@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-20T11:24:26-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">jorgescalona</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-19T18:47:09-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">jorgescalona</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Jorgescalona &amp;amp; Jose Freitez Thesis</title><link href="http://localhost:4000/tesis/" rel="alternate" type="text/html" title="Jorgescalona &amp; Jose Freitez Thesis" /><published>2018-08-21T00:00:00-03:00</published><updated>2018-08-21T00:00:00-03:00</updated><id>http://localhost:4000/tesis</id><content type="html" xml:base="http://localhost:4000/tesis/">&lt;p&gt;&lt;img src=&quot;../assets/img/pinguino.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;thesis&quot;&gt;Thesis:&lt;/h1&gt;
@@ -30,7 +30,7 @@
 
 &lt;blockquote&gt;
   &lt;p&gt;MyAddress
-Av Duraznos 1752
+Av Duraznos 1256
 Piso 1 #7
 Montevideo&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -53,6 +53,23 @@ Montevideo&lt;/p&gt;
 &lt;h2 id=&quot;experience&quot;&gt;Experience&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Your Most Recent Work Experience:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The most recent aspects I’ve been exploring are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Development and refactoring of the code for &lt;a href=&quot;http://antel.com.uy/&quot;&gt;Antel&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Continuous Integration for Odoo projects in V11. over gitlab, OpenShift,
+jenkins, kubernetes.&lt;/li&gt;
+  &lt;li&gt;Preparation of the Platform with gitalb-ci, docker technologies.&lt;/li&gt;
+  &lt;li&gt;Start-up of form test automation (flake8, pep8, pylint, odoo-pylint).&lt;/li&gt;
+  &lt;li&gt;Tune-up of the Platform for unit tests of the modules in Odoo V11 on gitlab.&lt;/li&gt;
+  &lt;li&gt;Progress and systematization of the theoretical framework for the
+implementation of IaC (Infrastructure As A Code) in the service of the
+Continuous Deployment of technological devices or software packages with tools
+as &lt;strong&gt;terraform&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Support in the design and implementation of an odoo &lt;a href=&quot;https://gitlab.com/jorgemustaine/openengrve&quot;&gt;openengrve&lt;/a&gt; module oriented
+to &lt;a href=&quot;https://en.wikipedia.org/wiki/Building_information_modeling&quot;&gt;BIM Building information modeling&lt;/a&gt; support for civil engineering and architecture projects.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Currently I work as a technology consultant for third parties in the freelance mode. I advance on software development specifically in languages such as Python, Ruby, which has allowed me to experiment with ERP tools such as Odoo, SIG QGIS, git, docker, among others. I am very interested in the training area thus bequeathing the experience gained throughout my professional experience. Lead teams and support them from the QA and project management by monitoring and controlling them.&lt;/p&gt;
 
